@@ -15,6 +15,8 @@
 
 ## 常用入口
 
-- [阿里巴巴电商体系总览](alibaba-ecommerce/01-平台基础/阿里巴巴电商体系总览.md)
-- [1688 采购与供应链基础](alibaba-ecommerce/02-1688/1688采购与供应链基础.md)
-- [Alibaba 国际站运营基础](alibaba-ecommerce/03-Alibaba国际站/Alibaba国际站运营基础.md)
+<div class="kb-quick-links">
+  <a class="kb-quick-link" href="alibaba-ecommerce/01-平台基础/阿里巴巴电商体系总览/">阿里巴巴电商体系总览</a>
+  <a class="kb-quick-link" href="alibaba-ecommerce/02-1688/1688采购与供应链基础/">1688 采购与供应链基础</a>
+  <a class="kb-quick-link" href="alibaba-ecommerce/03-Alibaba国际站/Alibaba国际站运营基础/">Alibaba 国际站运营基础</a>
+</div>
