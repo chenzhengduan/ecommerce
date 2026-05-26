@@ -18,6 +18,9 @@ theme:
       primary: teal
       accent: deep orange
 
+extra_css:
+  - assets/styles/mobile.css
+
 plugins:
   - awesome-pages:
       sort_type: natural

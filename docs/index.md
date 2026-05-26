@@ -2,8 +2,16 @@
 
 这里是本地 Markdown 知识库的网页入口，当前包含两个主要知识库：
 
-- [跨境电商知识库](cross-border-ecommerce/index.md)：亚马逊、独立站、物流、支付、税务、营销和运营复盘。
-- [阿里巴巴电商知识库](alibaba-ecommerce/index.md)：1688、Alibaba.com / 阿里国际站、采购供应链、商品发布、询盘转化、交易履约和风控合规。
+<div class="kb-switch">
+  <a class="kb-switch-card" href="cross-border-ecommerce/">
+    <span class="kb-switch-title">跨境电商知识库</span>
+    <span class="kb-switch-desc">亚马逊、独立站、物流、支付、税务、营销和运营复盘。</span>
+  </a>
+  <a class="kb-switch-card" href="alibaba-ecommerce/">
+    <span class="kb-switch-title">阿里巴巴电商知识库</span>
+    <span class="kb-switch-desc">1688、Alibaba.com / 阿里国际站、采购供应链、询盘转化和履约风控。</span>
+  </a>
+</div>
 
 ## 常用入口
 
