@@ -58,6 +58,10 @@
   line-height: 1.55;
 }
 
+.md-footer-meta {
+  display: none;
+}
+
 @media screen and (max-width: 76.1875em) {
   .md-nav--primary .md-nav__title {
     font-weight: 700;
