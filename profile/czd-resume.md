@@ -1,5 +1,6 @@
 ---
 title: 陈正端个人简历
+standalone_title: 陈正端个人简历
 hide:
   - navigation
   - toc
