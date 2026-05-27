@@ -20,6 +20,7 @@ theme:
 
 extra_css:
   - assets/styles/mobile.css
+  - assets/styles/resume.css
 
 plugins:
   - awesome-pages:
